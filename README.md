@@ -120,6 +120,7 @@ AI / Data-Science Consultant – Advise enterprises on implementing Google Cloud
 Head of AI / Chief AI Officer – Lead enterprise-wide AI adoption, governance, and strategy.
 
 **🌍 Global Salary Potential (Annual Estimates)**
+
 Role	United States (USD)	Pakistan (PKR/year)
 Generative AI Leader / AI Lead	$140,000 – $170,000	PKR 2.3M – 2.8M
 AI / ML Specialist Leader	$110,000 – $135,000	PKR 1.2M – 2.3M
