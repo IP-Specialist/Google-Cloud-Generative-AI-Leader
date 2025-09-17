@@ -122,10 +122,15 @@ Head of AI / Chief AI Officer – Lead enterprise-wide AI adoption, governance, 
 **🌍 Global Salary Potential (Annual Estimates)**
 
 Role	United States (USD)	Pakistan (PKR/year)
-Generative AI Leader / AI Lead	$140,000 – $170,000	PKR 2.3M – 2.8M
-AI / ML Specialist Leader	$110,000 – $135,000	PKR 1.2M – 2.3M
-Head of AI	$135,000 – $200,000+	PKR 2.4M – 3.5M
-Chief AI Officer (CAIO)	$150,000 – $220,000+	PKR 6M+
-AI / Cloud Consultant	$100,000 – $130,000	PKR 960,000 – 6.8M
+
+Generative AI Leader / AI Lead	$140,000 – $170,000	
+
+AI / ML Specialist Leader	$110,000 – $135,000
+
+Head of AI	$135,000 – $200,000+	
+
+Chief AI Officer (CAIO)	$150,000 – $220,000+	
+
+AI / Cloud Consultant	$100,000 – $130,000	
 
 💡 Salaries vary by region, seniority, company size, and industry sector. Senior executives often earn well above the listed ranges, especially in technology hubs and multinational firms.
